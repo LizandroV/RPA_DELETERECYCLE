@@ -1,0 +1,1 @@
+"D:\Sikulix\runsikulix.cmd" -r "D:\TSC\Sikuli\rpa_deletefiles_nas.skl"
